@@ -1,4 +1,4 @@
-"C:\Users\91638\PycharmProjects\Hybrid framework\.venv\Scripts\python.exe"pytest -s -v -n=7 --html=./Reports/report.html TestCases/ --browser chrome
+"C:\Users\91638\PycharmProjects\Hybrid framework\.venv\Scripts\python.exe" -m pytest -s -v -n=7 --html=./Reports/report.html TestCases/ --browser chrome
 REM "C:\Users\91638\PycharmProjects\Hybrid framework\.venv\Scripts\python.exe" -m pytest -s -v -m "sanity" --html=./Reports/report.html TestCases/ --browser chrome
 REM "C:\Users\91638\PycharmProjects\Hybrid framework\.venv\Scripts\python.exe" -m pytest -s -v -m "sanity" --html=./Reports/report.html TestCases/ --browser firefox
 REM "C:\Users\91638\PycharmProjects\Hybrid framework\.venv\Scripts\python.exe" -m pytest -s -v -m "sanity" --html=./Reports/report.html TestCases/
