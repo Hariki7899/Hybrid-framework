@@ -518,3 +518,381 @@
 04/25/2025 02:25:38 PM: INFO: ***** User Registration passed successfully *****
 04/25/2025 02:25:38 PM: INFO: ***** User Registration passed successfully *****
 04/25/2025 02:25:38 PM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:48:01 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:48:07 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:48:10 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:48:12 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:48:12 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:48:14 AM: INFO: ***** User deletion process *****
+04/26/2025 11:48:22 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:48:27 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:48:28 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:48:30 AM: INFO: ***** User deletion process *****
+04/26/2025 11:48:36 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:48:36 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:50:06 AM: INFO: ***** Test001Login *****
+04/26/2025 11:50:06 AM: INFO: ***** Test001Login *****
+04/26/2025 11:50:06 AM: INFO: ***** Test001Login *****
+04/26/2025 11:50:06 AM: INFO: ***** Test001Login *****
+04/26/2025 11:50:06 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:50:06 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:50:06 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:50:06 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:50:09 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:50:09 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:50:09 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:50:09 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:50:54 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:50:54 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:50:54 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:50:54 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:50:54 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:50:54 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:50:54 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:50:54 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:51:14 AM: INFO: ***** Passed *****
+04/26/2025 11:51:14 AM: INFO: ***** Passed *****
+04/26/2025 11:51:14 AM: INFO: ***** Passed *****
+04/26/2025 11:51:14 AM: INFO: ***** Passed *****
+04/26/2025 11:51:22 AM: INFO: ***** Passed *****
+04/26/2025 11:51:22 AM: INFO: ***** Passed *****
+04/26/2025 11:51:22 AM: INFO: ***** Passed *****
+04/26/2025 11:51:22 AM: INFO: ***** Passed *****
+04/26/2025 11:51:29 AM: INFO: ***** Passed *****
+04/26/2025 11:51:29 AM: INFO: ***** Passed *****
+04/26/2025 11:51:29 AM: INFO: ***** Passed *****
+04/26/2025 11:51:29 AM: INFO: ***** Passed *****
+04/26/2025 11:51:37 AM: INFO: ***** Passed *****
+04/26/2025 11:51:37 AM: INFO: ***** Passed *****
+04/26/2025 11:51:37 AM: INFO: ***** Passed *****
+04/26/2025 11:51:37 AM: INFO: ***** Passed *****
+04/26/2025 11:51:39 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:51:39 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:51:39 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:51:39 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:51:39 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:51:39 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:51:39 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:51:39 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:51:39 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:51:39 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:51:39 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:51:39 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:51:40 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:51:40 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:51:40 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:51:40 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:51:51 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:51:51 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:51:51 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:51:51 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:51:53 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:51:53 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:51:53 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:51:53 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:51:59 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:51:59 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:51:59 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:51:59 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:52:03 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:52:03 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:52:03 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:52:03 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:52:03 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:52:03 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:52:03 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:52:03 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:52:05 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:52:05 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:52:05 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:52:05 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:52:18 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:52:18 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:52:18 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:52:18 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:52:21 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:21 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:21 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:21 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:22 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:52:22 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:52:22 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:52:22 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:52:22 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:52:22 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:52:22 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:52:22 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:52:24 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:24 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:24 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:24 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:33 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:33 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:33 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:33 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:52:35 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:52:35 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:52:35 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:52:35 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:52:36 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:52:36 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:52:36 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:52:36 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:52:38 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:38 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:38 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:38 AM: INFO: ***** User deletion process *****
+04/26/2025 11:52:43 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:52:43 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:52:43 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:52:43 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:52:43 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:52:43 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:52:43 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:52:43 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:53:58 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:53:58 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:53:58 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:53:58 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:53:58 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:53:58 AM: INFO: ***** User deletion process *****
+04/26/2025 11:53:58 AM: INFO: ***** User deletion process *****
+04/26/2025 11:53:58 AM: INFO: ***** User deletion process *****
+04/26/2025 11:53:58 AM: INFO: ***** User deletion process *****
+04/26/2025 11:54:04 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:54:04 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:54:04 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:54:04 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:54:05 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:54:05 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:54:05 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:54:05 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:54:05 AM: INFO: ***** User deletion process *****
+04/26/2025 11:54:05 AM: INFO: ***** User deletion process *****
+04/26/2025 11:54:05 AM: INFO: ***** User deletion process *****
+04/26/2025 11:54:05 AM: INFO: ***** User deletion process *****
+04/26/2025 11:54:10 AM: INFO: ***** Test001Login *****
+04/26/2025 11:54:10 AM: INFO: ***** Test001Login *****
+04/26/2025 11:54:10 AM: INFO: ***** Test001Login *****
+04/26/2025 11:54:10 AM: INFO: ***** Test001Login *****
+04/26/2025 11:54:10 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:54:10 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:54:10 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:54:10 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:54:18 AM: INFO: ***** Passed *****
+04/26/2025 11:54:18 AM: INFO: ***** Passed *****
+04/26/2025 11:54:18 AM: INFO: ***** Passed *****
+04/26/2025 11:54:18 AM: INFO: ***** Passed *****
+04/26/2025 11:54:22 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:54:22 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:54:22 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:54:22 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:54:23 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:54:23 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:54:23 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:54:23 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:54:27 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:54:27 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:54:27 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:54:27 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:54:28 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:54:28 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:54:28 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:54:28 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:54:28 AM: INFO: ***** Passed *****
+04/26/2025 11:54:28 AM: INFO: ***** Passed *****
+04/26/2025 11:54:28 AM: INFO: ***** Passed *****
+04/26/2025 11:54:28 AM: INFO: ***** Passed *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:37 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:42 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:54:42 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:54:42 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:54:42 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:54:43 AM: INFO: ***** Passed *****
+04/26/2025 11:54:43 AM: INFO: ***** Passed *****
+04/26/2025 11:54:43 AM: INFO: ***** Passed *****
+04/26/2025 11:54:43 AM: INFO: ***** Passed *****
+04/26/2025 11:54:44 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:54:44 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:54:44 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:54:44 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:54:44 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:44 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:44 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:44 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:54:46 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:54:46 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:54:46 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:54:46 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:54:46 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:54:46 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:54:46 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:54:46 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:54:46 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:54:46 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:54:46 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:54:46 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:54:51 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:54:51 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:54:51 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:54:51 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:54:51 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:54:51 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:54:51 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:54:51 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:54:54 AM: INFO: ***** Passed *****
+04/26/2025 11:54:54 AM: INFO: ***** Passed *****
+04/26/2025 11:54:54 AM: INFO: ***** Passed *****
+04/26/2025 11:54:54 AM: INFO: ***** Passed *****
+04/26/2025 11:54:55 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:54:55 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:54:55 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:54:55 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:54:56 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:54:56 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:54:56 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:54:56 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:54:56 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:54:56 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:54:56 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:54:56 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:56:43 AM: INFO: ***** User deletion process *****
+04/26/2025 11:56:43 AM: INFO: ***** Test003Registeruser *****
+04/26/2025 11:56:43 AM: INFO: ***** User deletion process *****
+04/26/2025 11:56:43 AM: INFO: ***** User deletion process *****
+04/26/2025 11:56:43 AM: INFO: ***** Test003Registeruser *****
+
+04/26/2025 11:56:43 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:56:43 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:56:43 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:56:43 AM: INFO: ***** Verifying Login test *****
+04/26/2025 11:56:44 AM: INFO: ***** User deletion process *****
+04/26/2025 11:56:44 AM: INFO: ***** User deletion process *****
+04/26/2025 11:56:44 AM: INFO: ***** User deletion process *****
+04/26/2025 11:56:44 AM: INFO: ***** User deletion process *****
+04/26/2025 11:56:48 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:56:48 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:56:48 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:56:48 AM: INFO: ***** Test004Logout *****
+04/26/2025 11:56:48 AM: INFO: ***** Test001Login *****
+04/26/2025 11:56:48 AM: INFO: ***** Test001Login *****
+04/26/2025 11:56:48 AM: INFO: ***** Test001Login *****
+04/26/2025 11:56:48 AM: INFO: ***** Test001Login *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Home Page Title *****
+04/26/2025 11:56:48 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:56:48 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:56:48 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:56:48 AM: INFO: ***** Test002DDTLogin *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:56:48 AM: INFO: ***** Verifying Login test-DDT *****
+04/26/2025 11:56:57 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:56:57 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:56:57 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:56:57 AM: INFO: ***** Starting user registration for logout validation *****
+04/26/2025 11:57:01 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:57:01 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:57:01 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:57:01 AM: INFO: ***** Validation with existing email completed successfully *****
+04/26/2025 11:57:01 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:57:01 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:57:01 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:57:01 AM: INFO: ***** Ending Test003Registeruser *****
+04/26/2025 11:57:03 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:57:03 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:57:03 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:57:03 AM: INFO: ***** Starting user registration *****
+04/26/2025 11:57:12 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:57:12 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:57:12 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:57:12 AM: INFO: ***** Saving Customer details for logout validation *****
+04/26/2025 11:57:14 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:14 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:14 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:14 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:14 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:57:14 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:57:14 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:57:14 AM: INFO: ***** Login test passed successfully *****
+04/26/2025 11:57:16 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:57:16 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:57:16 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:57:16 AM: INFO: ***** Registration validation starts *****
+04/26/2025 11:57:17 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:57:17 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:57:17 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:57:17 AM: INFO: ***** User Registration passed successfully *****
+04/26/2025 11:57:18 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:18 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:18 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:18 AM: INFO: ***** Saving Customer details *****
+04/26/2025 11:57:32 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:57:32 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:57:32 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:57:32 AM: INFO: ***** Starting Logout process *****
+04/26/2025 11:57:37 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:57:37 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:57:37 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:57:37 AM: INFO: ***** User deletion process starts *****
+04/26/2025 11:57:38 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:57:38 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:57:38 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:57:38 AM: INFO: ***** User Logout passed successfully *****
+04/26/2025 11:57:38 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:57:38 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:57:38 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:57:38 AM: INFO: ***** Ending Test004Logout *****
+04/26/2025 11:57:38 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:57:38 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:57:38 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:57:38 AM: INFO: ***** Home Page title case passed *****
+04/26/2025 11:57:38 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:57:38 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:57:38 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:57:38 AM: INFO: ***** Deletion of user completed successfully *****
+04/26/2025 11:57:48 AM: INFO: ***** Passed *****
+04/26/2025 11:57:48 AM: INFO: ***** Passed *****
+04/26/2025 11:57:48 AM: INFO: ***** Passed *****
+04/26/2025 11:57:48 AM: INFO: ***** Passed *****
+04/26/2025 11:57:56 AM: INFO: ***** Passed *****
+04/26/2025 11:57:56 AM: INFO: ***** Passed *****
+04/26/2025 11:57:56 AM: INFO: ***** Passed *****
+04/26/2025 11:57:56 AM: INFO: ***** Passed *****
+04/26/2025 11:58:04 AM: INFO: ***** Passed *****
+04/26/2025 11:58:04 AM: INFO: ***** Passed *****
+04/26/2025 11:58:04 AM: INFO: ***** Passed *****
+04/26/2025 11:58:04 AM: INFO: ***** Passed *****
+04/26/2025 11:58:12 AM: INFO: ***** Passed *****
+04/26/2025 11:58:12 AM: INFO: ***** Passed *****
+04/26/2025 11:58:12 AM: INFO: ***** Passed *****
+04/26/2025 11:58:12 AM: INFO: ***** Passed *****
+04/26/2025 11:58:14 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:58:14 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:58:14 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:58:14 AM: INFO: *****Login DDT is passed *****
+04/26/2025 11:58:14 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:58:14 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:58:14 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:58:14 AM: INFO: ******** End of Login DDT Test ********
+04/26/2025 11:58:14 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:58:14 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:58:14 AM: INFO: ******** Completed Test002DDTLogin ******** 
+04/26/2025 11:58:14 AM: INFO: ******** Completed Test002DDTLogin ******** 

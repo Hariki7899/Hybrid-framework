@@ -5,6 +5,7 @@ class RegisterUser:
     textbox_Name_xpath='//*[@id="form"]/div/div/div[3]/div/form/input[2]'
     textbox_email_xpath='//*[@id="form"]/div/div/div[3]/div/form/input[3]'
     button_Signup_xpath='//*[@id="form"]/div/div/div[3]/div/form/button'
+    text_email_already_exists_xpath='//*[@id="form"]/div/div/div[3]/div/form/p'
     radio_title_Mr_xpath='//*[@id="id_gender1"]'
     radio_title_Mrs_xpath = '//*[@id="id_gender2"]'
     textbox_password_xpath='//*[@id="password"]'
@@ -45,6 +46,9 @@ class RegisterUser:
 
     def clicksignup(self):
         self.driver.find_element(By.XPATH,self.button_Signup_xpath).click()
+
+    def getemailexistingstatus(self):
+        return self.driver.find_element(By.XPATH,self.text_email_already_exists_xpath).text
 
     def selectgender(self,gender):
         if gender=='Male':

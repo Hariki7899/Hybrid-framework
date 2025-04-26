@@ -19,6 +19,7 @@ def random_password(size=10,chars= ascii_letters + string.digits + string.punctu
 class Test003Registeruser:
     base_url = ReadConfig.getApplicationurl()
     logger = LogGen.loggen()
+    email=ReadConfig.getemail()
 
     def timestamp_module(self):
         self.timestamp = datetime.datetime.now().strftime("%d-%m-%Y_%H-%M-%S-%f")
@@ -116,13 +117,45 @@ class Test003Registeruser:
 
         if act_status == 'ACCOUNT DELETED!':
             self.logger.info('***** Deletion of user completed successfully *****')
-            self.logger.info("***** Ending Test003Registeruser *****")
             self.driver.close()
             assert True
 
         else:
             self.driver.save_screenshot(f".\\Screenshots\\test_dltuser_{self.timestamp}.png")
             self.logger.error('***** Deletion of user Failed *****')
+            self.driver.close()
+            assert False
+
+    @pytest.mark.sanity
+    @pytest.mark.regression
+    def test_regexuser(self,setup):
+        self.timestamp_module()
+        self.logger.info("***** User deletion process *****")
+        self.driver = setup
+        self.driver.implicitly_wait(5)
+        self.driver.get(self.base_url)
+        self.reguser = RegisterUser(self.driver)
+        ## Start filling form ##
+        self.reguser.clicksignuplogin()
+        self.reguser.setname('Hariki')
+        ##Using the already existing registered email form read config file
+        self.reguser.setemail(self.email)
+        self.reguser.clicksignup()
+        act_status=self.reguser.getemailexistingstatus()
+
+        if act_status=='Email Address already exist!':
+            self.logger.info('***** Validation with existing email completed successfully *****')
+            self.logger.info("***** Ending Test003Registeruser *****")
+            self.driver.close()
+            assert True
+
+        else:
+            self.driver.save_screenshot(f".\\Screenshots\\test_refexuser_{self.timestamp}.png")
+            self.logger.error('***** Validation with existing email failed *****')
             self.logger.info("***** Ending Test003Registeruser *****")
             self.driver.close()
             assert False
+
+
+
+
