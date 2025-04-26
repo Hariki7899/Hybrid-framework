@@ -20,3 +20,8 @@ class ReadConfig():
     def getpassword():
         password = config.get('common info', 'password')
         return password
+
+    @staticmethod
+    def getuploadpath():
+        path=config.get('common info', 'upload_path')
+        return path
