@@ -34,13 +34,13 @@ def generate(prompt):
           types.Part.from_text(text="""-You are a log analyser. Help analyse the logs. 
            - You have to analyse the latest log based on date and time. Dont analyse the 
            entire log. 
-           - If logs for same day multiple time is available, take the latest batch based on time. Analyse 
-           only the latest batch which are on same hour but separated by few seconds and micro seconds.
-           - Mention which all the time stamp of lags in the batch of log which is being analysed.
+           - On the first line of response, say "analysis of the log of test case run on" 
+           after that print the current IST time in which this code is executed.
+           - Analyse the set of logs which has time stamp very close to the above current time.
+           - Mention which all the time stamp of logs which you are going to give analysis. I want all the time stamps as 
+           * list.
            - Look for general trend. If there is deviation from general trend, then raise concern.
-           - Give 3 important bullet points on the log. Compare the time taken by text case execution 
-           from previous logs and compare the trend. If there is some unpreceded increase in time, analyse it 
-           and brief about it.
+           - Give 3 important bullet points on the log.
            - Also give some suggestion if there are errors""")],
 
   )
