@@ -5,10 +5,10 @@ pipeline {
         stage('Run Tests') {
             steps {
                 bat '''
-                    "%WORKSPACE%\\.venv\\Scripts\\python.exe" -m pytest -v -s ^
-                    TestCases/ ^
-                    --html=./Reports/report.html ^
-                    --browser chrome
+                    "C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\.venv\\Scripts\\python.exe" -m pytest -v -s ^
+    --html=./Reports/report.html ^
+    TestCases/ ^
+    --browser chrome
                 '''
             }
         }
