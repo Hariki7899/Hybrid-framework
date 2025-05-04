@@ -6,8 +6,8 @@ pipeline {
             steps {
                 bat '''
                     "%WORKSPACE%\\.venv\\Scripts\\python.exe" -m pytest -v -s ^
-                    --html=./Reports/report.html ^
                     TestCases/ ^
+                    --html=./Reports/report.html ^
                     --browser chrome
                 '''
             }
