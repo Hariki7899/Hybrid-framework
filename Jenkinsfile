@@ -18,7 +18,7 @@ pipeline {
                 bat '''
                     "C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\.venv\\Scripts\\python.exe" ^
                     "C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\LogSummary\\log_summary.py" ^
-                    "C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\Logs\\automation.log"
+                    "C:\\Users\\91638\\.jenkins\\workspace\\Hybrid framework Pipeline\\Logs\\automation.log
                 '''
             }
         }

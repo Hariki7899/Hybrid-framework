@@ -64,6 +64,6 @@ prompt=file_object.read()
 summary=generate(prompt)
 
 timestamp=timestamp_module()
-file_path=f"C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\LogSummary\\log_summary_{timestamp}.txt"
+file_path=f"C:\\Users\\91638\\.jenkins\\workspace\\Hybrid framework Pipeline\\LogSummary\\log_summary_{timestamp}.txt"
 with open(file_path, "w") as file:
   file.write(summary)
