@@ -1198,3 +1198,223 @@
 04/26/2025 09:42:55 PM: INFO: ***** Ending Test003Registeruser *****
 04/26/2025 09:42:55 PM: INFO: ***** Ending Test003Registeruser *****
 04/26/2025 09:42:55 PM: INFO: ***** Ending Test003Registeruser *****
+05/04/2025 01:51:01 PM: INFO: ***** Test005Login *****
+05/04/2025 01:51:01 PM: INFO: ***** Test005Login *****
+05/04/2025 01:51:01 PM: INFO: ***** Test005Login *****
+05/04/2025 01:51:01 PM: INFO: ***** Test005Login *****
+05/04/2025 01:51:01 PM: INFO: ***** Test005Login *****
+05/04/2025 01:51:01 PM: INFO: ***** Verifying Contact form *****
+05/04/2025 01:51:01 PM: INFO: ***** Verifying Contact form *****
+05/04/2025 01:51:01 PM: INFO: ***** Verifying Contact form *****
+05/04/2025 01:51:01 PM: INFO: ***** Verifying Contact form *****
+05/04/2025 01:51:01 PM: INFO: ***** Verifying Contact form *****
+05/04/2025 01:51:07 PM: INFO: ***** Setting values for Contact form *****
+05/04/2025 01:51:07 PM: INFO: ***** Setting values for Contact form *****
+05/04/2025 01:51:07 PM: INFO: ***** Setting values for Contact form *****
+05/04/2025 01:51:07 PM: INFO: ***** Setting values for Contact form *****
+05/04/2025 01:51:07 PM: INFO: ***** Setting values for Contact form *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form validation starts *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form validation starts *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form validation starts *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form validation starts *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form validation starts *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form test passed successfully *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form test passed successfully *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form test passed successfully *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form test passed successfully *****
+05/04/2025 01:51:07 PM: INFO: ***** Contact form test passed successfully *****
+05/04/2025 01:51:11 PM: INFO: ***** Verifying Contact form without email *****
+05/04/2025 01:51:11 PM: INFO: ***** Verifying Contact form without email *****
+05/04/2025 01:51:11 PM: INFO: ***** Verifying Contact form without email *****
+05/04/2025 01:51:11 PM: INFO: ***** Verifying Contact form without email *****
+05/04/2025 01:51:11 PM: INFO: ***** Verifying Contact form without email *****
+05/04/2025 01:51:14 PM: INFO: ***** setting Contact form without email *****
+05/04/2025 01:51:14 PM: INFO: ***** setting Contact form without email *****
+05/04/2025 01:51:14 PM: INFO: ***** setting Contact form without email *****
+05/04/2025 01:51:14 PM: INFO: ***** setting Contact form without email *****
+05/04/2025 01:51:14 PM: INFO: ***** setting Contact form without email *****
+05/04/2025 01:51:17 PM: INFO: ***** Validation of Contact form without email completed successfully *****
+05/04/2025 01:51:17 PM: INFO: ***** Validation of Contact form without email completed successfully *****
+05/04/2025 01:51:17 PM: INFO: ***** Validation of Contact form without email completed successfully *****
+05/04/2025 01:51:17 PM: INFO: ***** Validation of Contact form without email completed successfully *****
+05/04/2025 01:51:17 PM: INFO: ***** Validation of Contact form without email completed successfully *****
+05/04/2025 01:51:19 PM: INFO: ***** Validating Contact form with incorrect email *****
+05/04/2025 01:51:19 PM: INFO: ***** Validating Contact form with incorrect email *****
+05/04/2025 01:51:19 PM: INFO: ***** Validating Contact form with incorrect email *****
+05/04/2025 01:51:19 PM: INFO: ***** Validating Contact form with incorrect email *****
+05/04/2025 01:51:19 PM: INFO: ***** Validating Contact form with incorrect email *****
+05/04/2025 01:51:22 PM: INFO: ***** Setting Contact form with incorrect email *****
+05/04/2025 01:51:22 PM: INFO: ***** Setting Contact form with incorrect email *****
+05/04/2025 01:51:22 PM: INFO: ***** Setting Contact form with incorrect email *****
+05/04/2025 01:51:22 PM: INFO: ***** Setting Contact form with incorrect email *****
+05/04/2025 01:51:22 PM: INFO: ***** Setting Contact form with incorrect email *****
+05/04/2025 01:51:24 PM: INFO: ***** Validation of Contact form with incorrect email completed successfully *****
+05/04/2025 01:51:24 PM: INFO: ***** Validation of Contact form with incorrect email completed successfully *****
+05/04/2025 01:51:24 PM: INFO: ***** Validation of Contact form with incorrect email completed successfully *****
+05/04/2025 01:51:24 PM: INFO: ***** Validation of Contact form with incorrect email completed successfully *****
+05/04/2025 01:51:24 PM: INFO: ***** Validation of Contact form with incorrect email completed successfully *****
+05/04/2025 01:51:24 PM: INFO: ***** Completing Test005Contactform ***** 
+05/04/2025 01:51:24 PM: INFO: ***** Completing Test005Contactform ***** 
+05/04/2025 01:51:24 PM: INFO: ***** Completing Test005Contactform ***** 
+05/04/2025 01:51:24 PM: INFO: ***** Completing Test005Contactform ***** 
+05/04/2025 01:51:24 PM: INFO: ***** Completing Test005Contactform ***** 
+05/04/2025 01:51:26 PM: INFO: ***** Test001Login *****
+05/04/2025 01:51:26 PM: INFO: ***** Test001Login *****
+05/04/2025 01:51:26 PM: INFO: ***** Test001Login *****
+05/04/2025 01:51:26 PM: INFO: ***** Test001Login *****
+05/04/2025 01:51:26 PM: INFO: ***** Test001Login *****
+05/04/2025 01:51:26 PM: INFO: ***** Verifying Home Page Title *****
+05/04/2025 01:51:26 PM: INFO: ***** Verifying Home Page Title *****
+05/04/2025 01:51:26 PM: INFO: ***** Verifying Home Page Title *****
+05/04/2025 01:51:26 PM: INFO: ***** Verifying Home Page Title *****
+05/04/2025 01:51:26 PM: INFO: ***** Verifying Home Page Title *****
+05/04/2025 01:51:29 PM: INFO: ***** Home Page title case passed *****
+05/04/2025 01:51:29 PM: INFO: ***** Home Page title case passed *****
+05/04/2025 01:51:29 PM: INFO: ***** Home Page title case passed *****
+05/04/2025 01:51:29 PM: INFO: ***** Home Page title case passed *****
+05/04/2025 01:51:29 PM: INFO: ***** Home Page title case passed *****
+05/04/2025 01:51:31 PM: INFO: ***** Verifying Login test *****
+05/04/2025 01:51:31 PM: INFO: ***** Verifying Login test *****
+05/04/2025 01:51:31 PM: INFO: ***** Verifying Login test *****
+05/04/2025 01:51:31 PM: INFO: ***** Verifying Login test *****
+05/04/2025 01:51:31 PM: INFO: ***** Verifying Login test *****
+05/04/2025 01:51:41 PM: INFO: ***** Login test passed successfully *****
+05/04/2025 01:51:41 PM: INFO: ***** Login test passed successfully *****
+05/04/2025 01:51:41 PM: INFO: ***** Login test passed successfully *****
+05/04/2025 01:51:41 PM: INFO: ***** Login test passed successfully *****
+05/04/2025 01:51:41 PM: INFO: ***** Login test passed successfully *****
+05/04/2025 01:51:42 PM: INFO: ***** Test002DDTLogin *****
+05/04/2025 01:51:42 PM: INFO: ***** Test002DDTLogin *****
+05/04/2025 01:51:42 PM: INFO: ***** Test002DDTLogin *****
+05/04/2025 01:51:42 PM: INFO: ***** Test002DDTLogin *****
+05/04/2025 01:51:42 PM: INFO: ***** Test002DDTLogin *****
+05/04/2025 01:51:42 PM: INFO: ***** Verifying Login test-DDT *****
+05/04/2025 01:51:42 PM: INFO: ***** Verifying Login test-DDT *****
+05/04/2025 01:51:42 PM: INFO: ***** Verifying Login test-DDT *****
+05/04/2025 01:51:42 PM: INFO: ***** Verifying Login test-DDT *****
+05/04/2025 01:51:42 PM: INFO: ***** Verifying Login test-DDT *****
+05/04/2025 01:51:55 PM: INFO: ***** Passed *****
+05/04/2025 01:51:55 PM: INFO: ***** Passed *****
+05/04/2025 01:51:55 PM: INFO: ***** Passed *****
+05/04/2025 01:51:55 PM: INFO: ***** Passed *****
+05/04/2025 01:51:55 PM: INFO: ***** Passed *****
+05/04/2025 01:52:03 PM: INFO: ***** Passed *****
+05/04/2025 01:52:03 PM: INFO: ***** Passed *****
+05/04/2025 01:52:03 PM: INFO: ***** Passed *****
+05/04/2025 01:52:03 PM: INFO: ***** Passed *****
+05/04/2025 01:52:03 PM: INFO: ***** Passed *****
+05/04/2025 01:52:10 PM: INFO: ***** Passed *****
+05/04/2025 01:52:10 PM: INFO: ***** Passed *****
+05/04/2025 01:52:10 PM: INFO: ***** Passed *****
+05/04/2025 01:52:10 PM: INFO: ***** Passed *****
+05/04/2025 01:52:10 PM: INFO: ***** Passed *****
+05/04/2025 01:52:19 PM: INFO: ***** Passed *****
+05/04/2025 01:52:19 PM: INFO: ***** Passed *****
+05/04/2025 01:52:19 PM: INFO: ***** Passed *****
+05/04/2025 01:52:19 PM: INFO: ***** Passed *****
+05/04/2025 01:52:19 PM: INFO: ***** Passed *****
+05/04/2025 01:52:20 PM: INFO: *****Login DDT is passed *****
+05/04/2025 01:52:20 PM: INFO: *****Login DDT is passed *****
+05/04/2025 01:52:20 PM: INFO: *****Login DDT is passed *****
+05/04/2025 01:52:20 PM: INFO: *****Login DDT is passed *****
+05/04/2025 01:52:20 PM: INFO: *****Login DDT is passed *****
+05/04/2025 01:52:20 PM: INFO: ******** End of Login DDT Test ********
+05/04/2025 01:52:20 PM: INFO: ******** End of Login DDT Test ********
+05/04/2025 01:52:20 PM: INFO: ******** End of Login DDT Test ********
+05/04/2025 01:52:20 PM: INFO: ******** End of Login DDT Test ********
+05/04/2025 01:52:20 PM: INFO: ******** End of Login DDT Test ********
+05/04/2025 01:52:20 PM: INFO: ******** Completed Test002DDTLogin ******** 
+05/04/2025 01:52:20 PM: INFO: ******** Completed Test002DDTLogin ******** 
+05/04/2025 01:52:20 PM: INFO: ******** Completed Test002DDTLogin ******** 
+05/04/2025 01:52:20 PM: INFO: ******** Completed Test002DDTLogin ******** 
+05/04/2025 01:52:20 PM: INFO: ******** Completed Test002DDTLogin ******** 
+05/04/2025 01:52:22 PM: INFO: ***** Test004Logout *****
+05/04/2025 01:52:22 PM: INFO: ***** Test004Logout *****
+05/04/2025 01:52:22 PM: INFO: ***** Test004Logout *****
+05/04/2025 01:52:22 PM: INFO: ***** Test004Logout *****
+05/04/2025 01:52:22 PM: INFO: ***** Test004Logout *****
+05/04/2025 01:52:28 PM: INFO: ***** Starting user registration for logout validation *****
+05/04/2025 01:52:28 PM: INFO: ***** Starting user registration for logout validation *****
+05/04/2025 01:52:28 PM: INFO: ***** Starting user registration for logout validation *****
+05/04/2025 01:52:28 PM: INFO: ***** Starting user registration for logout validation *****
+05/04/2025 01:52:28 PM: INFO: ***** Starting user registration for logout validation *****
+05/04/2025 01:52:30 PM: INFO: ***** Saving Customer details for logout validation *****
+05/04/2025 01:52:30 PM: INFO: ***** Saving Customer details for logout validation *****
+05/04/2025 01:52:30 PM: INFO: ***** Saving Customer details for logout validation *****
+05/04/2025 01:52:30 PM: INFO: ***** Saving Customer details for logout validation *****
+05/04/2025 01:52:30 PM: INFO: ***** Saving Customer details for logout validation *****
+05/04/2025 01:52:35 PM: INFO: ***** Starting Logout process *****
+05/04/2025 01:52:35 PM: INFO: ***** Starting Logout process *****
+05/04/2025 01:52:35 PM: INFO: ***** Starting Logout process *****
+05/04/2025 01:52:35 PM: INFO: ***** Starting Logout process *****
+05/04/2025 01:52:35 PM: INFO: ***** Starting Logout process *****
+05/04/2025 01:52:39 PM: INFO: ***** User Logout passed successfully *****
+05/04/2025 01:52:39 PM: INFO: ***** User Logout passed successfully *****
+05/04/2025 01:52:39 PM: INFO: ***** User Logout passed successfully *****
+05/04/2025 01:52:39 PM: INFO: ***** User Logout passed successfully *****
+05/04/2025 01:52:39 PM: INFO: ***** User Logout passed successfully *****
+05/04/2025 01:52:39 PM: INFO: ***** Ending Test004Logout *****
+05/04/2025 01:52:39 PM: INFO: ***** Ending Test004Logout *****
+05/04/2025 01:52:39 PM: INFO: ***** Ending Test004Logout *****
+05/04/2025 01:52:39 PM: INFO: ***** Ending Test004Logout *****
+05/04/2025 01:52:39 PM: INFO: ***** Ending Test004Logout *****
+05/04/2025 01:52:41 PM: INFO: ***** Test003Registeruser *****
+05/04/2025 01:52:41 PM: INFO: ***** Test003Registeruser *****
+05/04/2025 01:52:41 PM: INFO: ***** Test003Registeruser *****
+05/04/2025 01:52:41 PM: INFO: ***** Test003Registeruser *****
+05/04/2025 01:52:41 PM: INFO: ***** Test003Registeruser *****
+05/04/2025 01:52:45 PM: INFO: ***** Starting user registration *****
+05/04/2025 01:52:45 PM: INFO: ***** Starting user registration *****
+05/04/2025 01:52:45 PM: INFO: ***** Starting user registration *****
+05/04/2025 01:52:45 PM: INFO: ***** Starting user registration *****
+05/04/2025 01:52:45 PM: INFO: ***** Starting user registration *****
+05/04/2025 01:52:47 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:52:47 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:52:47 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:52:47 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:52:47 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:52:48 PM: INFO: ***** Registration validation starts *****
+05/04/2025 01:52:48 PM: INFO: ***** Registration validation starts *****
+05/04/2025 01:52:48 PM: INFO: ***** Registration validation starts *****
+05/04/2025 01:52:48 PM: INFO: ***** Registration validation starts *****
+05/04/2025 01:52:48 PM: INFO: ***** Registration validation starts *****
+05/04/2025 01:52:49 PM: INFO: ***** User Registration passed successfully *****
+05/04/2025 01:52:49 PM: INFO: ***** User Registration passed successfully *****
+05/04/2025 01:52:49 PM: INFO: ***** User Registration passed successfully *****
+05/04/2025 01:52:49 PM: INFO: ***** User Registration passed successfully *****
+05/04/2025 01:52:49 PM: INFO: ***** User Registration passed successfully *****
+05/04/2025 01:52:50 PM: INFO: ***** User deletion process *****
+05/04/2025 01:52:50 PM: INFO: ***** User deletion process *****
+05/04/2025 01:52:50 PM: INFO: ***** User deletion process *****
+05/04/2025 01:52:50 PM: INFO: ***** User deletion process *****
+05/04/2025 01:52:50 PM: INFO: ***** User deletion process *****
+05/04/2025 01:53:02 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:53:02 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:53:02 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:53:02 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:53:02 PM: INFO: ***** Saving Customer details *****
+05/04/2025 01:53:03 PM: INFO: ***** User deletion process starts *****
+05/04/2025 01:53:03 PM: INFO: ***** User deletion process starts *****
+05/04/2025 01:53:03 PM: INFO: ***** User deletion process starts *****
+05/04/2025 01:53:03 PM: INFO: ***** User deletion process starts *****
+05/04/2025 01:53:03 PM: INFO: ***** User deletion process starts *****
+05/04/2025 01:53:04 PM: INFO: ***** Deletion of user completed successfully *****
+05/04/2025 01:53:04 PM: INFO: ***** Deletion of user completed successfully *****
+05/04/2025 01:53:04 PM: INFO: ***** Deletion of user completed successfully *****
+05/04/2025 01:53:04 PM: INFO: ***** Deletion of user completed successfully *****
+05/04/2025 01:53:04 PM: INFO: ***** Deletion of user completed successfully *****
+05/04/2025 01:53:06 PM: INFO: ***** User deletion process *****
+05/04/2025 01:53:06 PM: INFO: ***** User deletion process *****
+05/04/2025 01:53:06 PM: INFO: ***** User deletion process *****
+05/04/2025 01:53:06 PM: INFO: ***** User deletion process *****
+05/04/2025 01:53:06 PM: INFO: ***** User deletion process *****
+05/04/2025 01:53:11 PM: INFO: ***** Validation with existing email completed successfully *****
+05/04/2025 01:53:11 PM: INFO: ***** Validation with existing email completed successfully *****
+05/04/2025 01:53:11 PM: INFO: ***** Validation with existing email completed successfully *****
+05/04/2025 01:53:11 PM: INFO: ***** Validation with existing email completed successfully *****
+05/04/2025 01:53:11 PM: INFO: ***** Validation with existing email completed successfully *****
+05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
+05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
+05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
+05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
+05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
