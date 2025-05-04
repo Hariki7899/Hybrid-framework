@@ -28,16 +28,6 @@ pipeline {
         always {
             // Archive both HTML report and log summaries
             archiveArtifacts artifacts: 'Reports/report.html, LogSummary/*.txt'
-
-            // Optional: Publish HTML report (requires HTML Publisher plugin)
-            publishHTML target: [
-                allowMissing: false,
-                alwaysLinkToLastBuild: true,
-                keepAll: true,
-                reportDir: 'Reports',
-                reportFiles: 'report.html',
-                reportName: 'Pytest Report'
-            ]
         }
     }
 }
