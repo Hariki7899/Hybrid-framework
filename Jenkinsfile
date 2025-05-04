@@ -16,14 +16,13 @@ pipeline {
         stage('Analyze Logs') {
             steps {
                 bat '''
-                    "%WORKSPACE%\\.venv\\Scripts\\python.exe" ^
-                    "%WORKSPACE%\\LogSummary\\log_summary.py" ^
-                    "%WORKSPACE%\\Logs\\automation.log"
+                    "C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\.venv\\Scripts\\python.exe" ^
+                    "C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\LogSummary\\log_summary.py" ^
+                    "C:\\Users\\91638\\PycharmProjects\\Hybrid framework\\Logs\\automation.log"
                 '''
             }
         }
     }
-
     post {
         always {
             // Archive both HTML report and log summaries
