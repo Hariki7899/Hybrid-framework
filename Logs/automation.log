@@ -1418,3 +1418,12 @@
 05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
 05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
 05/04/2025 01:53:11 PM: INFO: ***** Ending Test003Registeruser *****
+05/07/2025 11:34:06 PM: INFO: ***** Test006Search *****
+05/07/2025 11:34:06 PM: INFO: ***** Searching product without login *****
+05/07/2025 11:34:47 PM: INFO: ***** Search without login Passed *****
+05/07/2025 11:34:49 PM: INFO: ***** Searching product after login *****
+05/07/2025 11:35:42 PM: INFO: ***** Test006Search *****
+05/07/2025 11:35:42 PM: INFO: ***** Searching product without login *****
+05/07/2025 11:35:51 PM: INFO: ***** Search without login Passed *****
+05/07/2025 11:35:53 PM: INFO: ***** Searching product after login *****
+05/07/2025 11:36:32 PM: INFO: ***** Search after login Passed *****
